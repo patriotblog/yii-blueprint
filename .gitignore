@@ -1,0 +1,12 @@
+/vendor/
+/assets/*
+/protected/runtime/*
+/protected/config/database.php
+/heisenberg.php
+/protected/heisenberg.php
+heisenberg.php
+!/images/
+/.idea/*
+.bowerrc
+composer.lock
+/node_modules/*

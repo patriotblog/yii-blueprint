@@ -1,0 +1,22 @@
+{
+  "name": "heisenberg",
+  "version": "1.0.0",
+  "description": "heisenberg framework gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abedinia/heisenberg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abedinia/heisenberg.git"
+  },
+  "homepage": "https://github.com/abedinia/heisenberg.git",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

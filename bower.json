@@ -1,0 +1,21 @@
+{
+  "name": "hisenberg",
+  "homepage": "https://github.com/abedinia/heisenberg",
+  "authors": [
+    "aydin <aydin.abdnia@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "1.12.0"
+  }
+}
